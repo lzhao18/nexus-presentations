@@ -1,5 +1,9 @@
 body {
-    font-family: "myriad-pro-1","myriad-pro-2",Arial,Geneva,sans-serif;
+  font-family: Helvetica,Arial,Geneva,sans-serif;
+}
+
+div.slide div {
+  font-size: 24pt;
 }
 
 /*
@@ -31,6 +35,7 @@ div.listingblock {
 }
 
 div.admonitionblock td.content {
-  border: 2px solid #0080ff;
+  border: 2px solid #4c4c4c;
+  background-color: #e6e6e6;
   padding: 10px;
 }
